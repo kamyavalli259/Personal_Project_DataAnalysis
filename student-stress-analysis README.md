@@ -22,6 +22,6 @@ This project analyzes how different factors like sleep quality, headache frequen
 - `README.md` : Project overview and instructions
 
 ## How to Run
-1. Download and open the Student Stress Analysis.ipynb and open in a google collab
+1. Download and open the Student_Stress_Analysis.ipynb and open in a google collab
 2. Upload the data set Student Stress Factors.csv
 3. Run from the top to see the analysis. 
