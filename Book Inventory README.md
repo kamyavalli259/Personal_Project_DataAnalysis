@@ -23,5 +23,5 @@ To run the SQL script
 -Open the SQL Server and upload the .sql file
 -This will create tables, insert tables, and run the queries. 
 Here is the file
-Personal_Project_Book.sql 
+https://github.com/kamyavalli259/Personal_Project_DataAnalysis/blob/main/Personal_Project_Book.sql 
 
